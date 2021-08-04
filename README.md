@@ -6,12 +6,11 @@ própria para estar em constante evolução. Estou muito feliz com a minha jorna
 desejo ser uma desenvolvedora Back-End e poder fazer a diferença de maneira positiva para a comu-
 nidade e para o mundo! :earth_americas:
 
-### Meus conhecimentos :orange_book:
-
+#### Meus conhecimentos :orange_book:
 * Front-End: HTML, CSS e JavaScript.
 * Back-End: Java, PHP, Python e SQL.
 
-### Estou estudando  🌱
+#### Estou estudando  🌱
 
 * PHP, SQL e Laravel.
  *Estou aprofundando meus conhecimentos em PHP e SQL e começando a estudar o framework Laravel.*

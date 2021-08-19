@@ -11,6 +11,6 @@ desejo ser uma desenvolvedora Back-End e poder fazer a diferença de maneira pos
 
 #### Estou estudando  🌱
 
-* PHP, SQL e Laravel.
- *Estou aprofundando meus conhecimentos em PHP e SQL e começando a estudar o framework Laravel.*
+* PHP, SQL, SCRUM e AWS.
+ *Estou aprofundando meus conhecimentos em PHP e SQL, começando a estudar o método ágil SCRUM e computação em nuvem com a plataforma AWS.
 

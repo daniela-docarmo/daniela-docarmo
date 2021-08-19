@@ -12,5 +12,5 @@ desejo ser uma desenvolvedora Back-End e poder fazer a diferença de maneira pos
 #### Estou estudando  🌱
 
 * PHP, SQL, SCRUM e AWS.
- *Estou aprofundando meus conhecimentos em PHP e SQL, começando a estudar o método ágil SCRUM e computação em nuvem com a plataforma AWS.
+* Estou aprofundando meus conhecimentos em PHP e SQL, começando a estudar o método ágil SCRUM e computação em nuvem com a plataforma AWS.
 

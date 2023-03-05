@@ -1,11 +1,10 @@
 # Daniela do Carmo :woman_technologist: 
 
-Olá, eu chamo Daniela, tenho 22 anos, sou estudante de Análise e Desenvolvimento de Sistemas e Desenvolvedora. 
-Tenho estudado bastante e estou muito feliz com a minha jornada de aprendizado, desejo estar em constante evolução para fazer a diferença de maneira positiva para a comunidade e para o mundo! 
+Oi, me chamo Daniela, tenho 22 anos e sou Desenvolvedora Backend! 
 
 #### Meus conhecimentos :orange_book:
 * Front-End: HTML, CSS e JavaScript.
-* Back-End: Java, PHP, Python e SQL.
+* Back-End: PHP, Python, Java e SQL.
 
 #### Estou estudando  🌱
 

@@ -9,14 +9,11 @@ Hi, I'm Daniela, full stack developer, passionate about technology, innovation a
 </div>
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="Dani-PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-
-original.svg">
+  <img align="center" alt="Dani-PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
   <img align="center" alt="Dani-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Dani-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Dani-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Dani-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="right" alt="Dani-pic" height="150" style="border-radius:50px;" src="https://www.linkedin.com/dms/D4D06AQFP4A7wHOgHXg/messaging-attachmentFile/0/1679607811243?m=AQLQQ0r_Xe9ZGAAAAYcQbVQAveZ9e-nYIW6dcxZhrn8Xs29P7s4Yus-shA&ne=1&v=beta&t=vKj01mCDeFONLcFD0laNO5PQR3tdx14p3wyqZmdh35A">
-</div>
 
 <div> 
   <a href = "mailto:daniela.carmo9999@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
